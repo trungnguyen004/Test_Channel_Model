@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.11">
+  <compound refid="classgr_1_1MulConsNoise_1_1ChanMode__ff" kind="class"><name>gr::MulConsNoise::ChanMode_ff</name>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff_1a5e41d51f132fd6608ef37ab4c1e0af25" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff_1a21607fbd25974dcb24a6d00c4bd6854c" kind="function"><name>make</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff_1ad3d63aaefcaf5a79bce8aeae12f169d6" kind="function"><name>d_ampl</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff_1a1b9d8e36a84b085da2b6fd00165f9afd" kind="function"><name>ampl</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff_1aa6f86bf98f748b99e6de6d36ee3c6d10" kind="function"><name>d_var</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff_1abffde587093b818af81b1829b76027e3" kind="function"><name>var</name></member>
+  </compound>
+  <compound refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl" kind="class"><name>gr::MulConsNoise::ChanMode_ff_impl</name>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1ac79b5474aac9322cb10cce4944ce24cd" kind="variable"><name>my_ampl</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1a58ec82404d8d69a3c1b5b2a52db06de1" kind="variable"><name>my_var</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1a51ad547ade9abda872e6ed3862cb282e" kind="variable"><name>d_rng</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1aab76c93f915ede6c901519d621513240" kind="function"><name>ChanMode_ff_impl</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1af246032083f8d8fd691a096744e4adac" kind="function"><name>~ChanMode_ff_impl</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1a07337b5c0beac21606301c34029acb10" kind="function"><name>d_ampl</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1a690f7891c5ff15a22af6d8616d4510dd" kind="function"><name>ampl</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1a56662c834ed441e1107931fdcd211a47" kind="function"><name>d_var</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1a69e357448b3b53c62f204e892828fb96" kind="function"><name>var</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1a413182750402dc7b39abdc14812f9f7d" kind="function"><name>forecast</name></member>
+    <member refid="classgr_1_1MulConsNoise_1_1ChanMode__ff__impl_1ad57310f2b9fb0bf3b804f9fc39ddc3f7" kind="function"><name>general_work</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1MulConsNoise" kind="namespace"><name>gr::MulConsNoise</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1a79172524ea984f0f7d736e2f1e759c45" kind="define"><name>MULCONSNOISE_API</name></member>
+  </compound>
+  <compound refid="ChanMode__ff_8h" kind="file"><name>ChanMode_ff.h</name>
+  </compound>
+  <compound refid="ChanMode__ff__impl_8h" kind="file"><name>ChanMode_ff_impl.h</name>
+  </compound>
+  <compound refid="group__defs_8dox" kind="file"><name>group_defs.dox</name>
+  </compound>
+  <compound refid="main__page_8dox" kind="file"><name>main_page.dox</name>
+  </compound>
+  <compound refid="group__block" kind="group"><name>block</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>include</name>
+  </compound>
+  <compound refid="dir_97aefd0d527b934f1d99a682da8fe6a9" kind="dir"><name>lib</name>
+  </compound>
+  <compound refid="dir_289ade5ecfb458937d8035521fafb9fb" kind="dir"><name>MulConsNoise</name>
+  </compound>
+  <compound refid="indexpage" kind="page"><name>index</name>
+  </compound>
+</doxygenindex>

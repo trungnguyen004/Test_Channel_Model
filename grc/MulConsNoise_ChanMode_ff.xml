@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<block>
+  <name>ChanMode_ff</name>
+  <key>MulConsNoise_ChanMode_ff</key>
+  <category>[MulConsNoise]</category>
+  <import>import MulConsNoise</import>
+  <make>MulConsNoise.ChanMode_ff($ampl, $var)</make>
+  <callback>d_ampl($ampl)</callback>
+  <callback>d_var($var)</callback>
+  
+  <param>
+    <name>Amplitude</name>
+    <key>ampl</key>
+    <value>1</value>
+    <type>float</type>
+  </param>
+
+  <param>
+    <name>Variable</name>
+    <key>var</key>
+    <type>float</type>
+  </param>
+
+  <sink>
+    <name>in</name>
+    <type>float</type>
+  </sink>
+
+  <source>
+    <name>out</name>
+    <type>float</type>
+  </source>
+</block>
